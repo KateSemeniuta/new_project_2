@@ -184,4 +184,3 @@ To split <span>$</span>100 in half, we calculate $100/2$
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
-      
