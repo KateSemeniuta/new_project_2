@@ -25,7 +25,6 @@
 | Backtick | `         |
 | Pipe     | \|        |
 
-
 <details>
 
 <summary>Tips for collapsed sections</summary>
